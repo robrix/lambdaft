@@ -16,6 +16,7 @@ extra-source-files:  README.md
 
 library
   exposed-modules:
+    Eval
     Lam
     Pretty
   -- other-modules:
