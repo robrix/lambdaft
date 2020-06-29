@@ -23,6 +23,7 @@ library
   -- other-extensions:
   build-depends:
     , base >= 4.13 && < 5
+    , fused-effects
     , prettyprinter
     , prettyprinter-ansi-terminal
     , terminal-size
